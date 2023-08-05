@@ -1,3 +1,3 @@
 # Modèle SVM
-## Support vector machines (séparateur à vaste marge)
+### Support vector machines (séparateur à vaste marge)
 
