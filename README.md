@@ -11,10 +11,11 @@
 
 ● Idée de marge maximale : on prend les 2 points rouge et vert les plus proches, la frontière de prédiction du modèle SVM sera la droite équidistante entre ces 2 points. 
 
-● 2 choses :   
-              # - les 2 points sont équidistants de la droite de prédiction.
+● 2 choses :  - les 2 points sont équidistants de la droite de prédiction.
+# 
 
-              # - la distance entre ces 2 points et la droite de séparation maximale.
+
+               - la distance entre ces 2 points et la droite de séparation maximale.
 
 
 <img width="307" alt="image" src="https://github.com/Brahim-AIT-OUALI/modele_svm/assets/115220907/1025e457-ef6f-4811-8882-0b0051c083b9">
