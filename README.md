@@ -18,5 +18,5 @@
 
 <img width="307" alt="image" src="https://github.com/Brahim-AIT-OUALI/modele_svm/assets/115220907/1025e457-ef6f-4811-8882-0b0051c083b9">
 
-
+#### Appelation supports vecteurs = ils supportent tout le modèle eux-même et tous les autres points d'observation (tous les autres points ne jouant pas de rôle dans le modèle)
 
