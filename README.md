@@ -20,3 +20,4 @@
 
 #### Appelation support vectors = ils supportent tout le modèle eux-même et tous les autres points d'observation (tous les autres points ne jouant pas de rôle dans le modèle)
 
+#### C'est un modèle linéaire qui marche très bien avec des points d'observation linéairement séparables.
